@@ -4,15 +4,17 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.lazy.grid.GridCells
+import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
 import androidx.compose.material3.Scaffold
-import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.graphics.Color
 import com.example.aacsoftware.ui.theme.AACSoftwareTheme
-
+data class AacButton(val id: String, val icon: String, val label: String, val spokenText: String=label,val backGroundColor: Color= Color(0xFFFFFFFF))
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -20,28 +22,23 @@ class MainActivity : ComponentActivity() {
         setContent {
             AACSoftwareTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    Greeting(
-                        name = "Android",
-                        modifier = Modifier.padding(innerPadding)
-                    )
+                    CommunicationBoard(null, )
                 }
             }
         }
     }
 }
-
 @Composable
-fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Text(
-        text = "Hello $name!",
-        modifier = modifier
-    )
-}
-
-@Preview(showBackground = true)
-@Composable
-fun GreetingPreview() {
-    AACSoftwareTheme {
-        Greeting("Android")
+fun CommunicationBoard(
+    buttons: list<AacButton>,
+    onButtonPressed: (AacButton)-> Unit
+)
+{
+    LazyVerticalGrid(columns = GridCells.fixed(3), modifier = Modifier.fillMaxSize().padding(12.dp), horizontalArrangement = Arrangement.spacedBy(12.dp), verticalArrangement = Arrangement.spacedBy(12.dp))
+    {
+        items(items = buttons,key={it.id})
+        {
+            button(onClick={onButtonPressed(button)})
+        }
     }
 }
