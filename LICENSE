@@ -1,0 +1,173 @@
+AAC-App SOURCE-AVAILABLE LICENSE
+version 1.0
+Copyright © 2026 xy231153nr-lab
+1. Definitions 
+In this instance "Software" refers to this repositories Software including its source code,
+compiled versions, documentation, and other materials distributed by the
+Copyright Holder or permited parties under this Licence.
+
+“Copyright Holder” means the holder of the github acount xy231153nr-lab
+
+“Educational Institution” means a school, college, university, library,
+or non-profit educational organisation whose primary purpose is education,
+training, or academic research.
+
+“Non-Commercial Use” means use that is not primarily intended to obtain
+money, revenue, commercial advantage, or monetary compensation or enables the use of advertisment in any way.
+
+“Modified Version” means a version of the Software that has been changed,
+adapted, translated, extended, or incorporated into another program.
+
+2. Grant of Licence
+
+Subject to the terms of this Licence, the Copyright Holder grants you a
+worldwide, non-exclusive, royalty-free licence to:
+
+(a) download and use the Software for personal, educational, academic,
+    research, or internal institutional purposes;
+
+(b) inspect and study the source code;
+
+(c) modify the Software for permitted purposes; and
+
+(d) make copies of the Software for permitted users.
+
+3. Non-Commercial Restriction
+
+You must not use, sell, licence, rent, lease, provide, host, operate, or
+otherwise make the Software or a Modified Version available:
+
+(a) as part of a commercial product or service;
+
+(b) to provide a paid or revenue-generating service;
+
+(c) for the primary purpose of obtaining commercial advantage or monetary
+    compensation; or
+
+(d) by a commercial organisation for its ordinary business activities.
+
+Use by an Educational Institution is permitted only for teaching, learning,
+academic research, administration, accessibility, or other internal
+educational purposes, and not for providing a commercial service to third
+parties.
+
+Payment for ordinary institutional costs, such as staff salaries, school
+fees, tuition, grants, or general operating expenses, does not by itself
+make an otherwise permitted educational use commercial. However, charging
+customers specifically for access to the Software, a Modified Version, or a
+service based on it is commercial use.
+
+4. Redistribution
+
+You may not redistribute the Software or a Modified Version, whether in
+source-code or compiled form, without the prior written permission of the
+Copyright Holder.
+
+A request for permission should identify:
+
+(a) the person or organisation requesting permission;
+
+(b) the version being redistributed;
+
+(c) the intended recipients;
+
+(d) the purpose of redistribution; and
+
+(e) whether the Software has been modified.
+
+The Copyright Holder may grant, refuse, or limit permission at its
+discretion, including by imposing additional conditions.
+
+5. Public Availability of Modified Source
+
+If the Copyright Holder gives permission to redistribute a Modified Version,
+the redistributor must make the complete corresponding source code of that
+Modified Version publicly available at no charge.
+
+The source code must be made available:
+
+(a) at the time the Modified Version is distributed, or as soon as
+    reasonably practicable and no later than [30] days afterward;
+
+(b) through a stable public URL or repository; and
+
+(c) together with a prominent notice identifying the modifications and
+    linking to this Licence.
+
+The publicly available source code must include all files necessary for a
+reasonably skilled person to build or modify the Modified Version, excluding
+third-party components that cannot lawfully be redistributed. Any excluded
+third-party components must be identified, together with instructions for
+obtaining them where legally permitted.
+
+6. Notices
+
+Every permitted copy or permitted redistribution must include:
+
+(a) this Licence;
+
+(b) the applicable copyright notice;
+
+(c) a notice stating whether the Software has been modified; and
+
+(d) the address of the original project or repository, if one exists.
+
+You must not remove or alter copyright, attribution, or licence notices.
+
+7. No Trademark Rights
+
+This Licence does not grant permission to use the name, logo, trademarks,
+service marks, or branding of the Copyright Holder, except to make accurate
+factual statements about the origin of the Software.
+
+8. Third-Party Components
+
+The Software may include components created by third parties. Those
+components remain subject to their own licence terms. A list of third-party
+components and their applicable licences is provided in [NOTICE FILE OR URL].
+
+Nothing in this Licence overrides a third-party licence.
+
+9. Contributions
+
+Unless the Copyright Holder agrees otherwise in writing, anyone submitting
+code, documentation, or other material to the project grants the Copyright
+Holder a perpetual, worldwide, royalty-free licence to use, reproduce,
+modify, publish, distribute, sublicense, and relicense that contribution as
+part of the project.
+
+The contributor confirms that they have the right to submit the contribution
+under these terms.
+
+10. Termination
+
+This Licence terminates automatically if you materially breach its terms.
+
+If you stop the breach and correct the violation within [30] days after
+receiving written notice, the Licence is reinstated unless the Copyright
+Holder has permanently terminated it in writing.
+
+Termination does not affect rights already granted to people who complied
+with this Licence, unless applicable law provides otherwise.
+
+11. Disclaimer of Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED “AS IS” AND
+“AS AVAILABLE,” WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, WHETHER
+EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF
+MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE,
+NON-INFRINGEMENT, ACCURACY, OR SECURITY.
+
+12. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER WILL NOT BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR
+PUNITIVE LOSS, OR FOR LOSS OF PROFITS, REVENUE, DATA, GOODWILL, OR BUSINESS
+OPPORTUNITY, ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THIS
+LICENCE.
+
+13. Governing Law
+
+This Licence is governed by the law of England and Wales. The courts of
+England and Wales have exclusive jurisdiction over disputes arising from
+or connected with this Licence.
